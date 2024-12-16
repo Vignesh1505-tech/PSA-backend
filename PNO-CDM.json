@@ -1,0 +1,767 @@
+PARANGIPETTAI TO CHIDAMBARAM
+
+-----------------------------------
+
+[
+  {
+    "bus_name": "CTP",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "4:50 AM",
+    "route": "BYPASS"
+  },{
+    "bus_name": "239 B",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "3:30 AM",
+    "route": "BYPASS"
+  },{
+    "bus_name": "5B / B",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "5:40 AM",
+    "route": "SAMIYAR PETTAI"
+  },{
+    "bus_name": "5C",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "5:45 AM",
+    "route": "LIGHT HOUSE"
+  },{
+    "bus_name": "5A",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "6:10 AM",
+    "route": "PNO GH"
+  },{
+    "bus_name": "5A (A)",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "6:25 AM",
+    "route": "VAATHIYA PALLI"
+  },{
+    "bus_name": "5B",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "6:55 AM",
+    "route": "BHUVANAGHIRI"
+  },{
+    "bus_name": "SAI BABA",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "7:00 AM",
+    "route": "BYPASS"
+  },{
+    "bus_name": "CTP",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "7:45 AM",
+    "route": "BHUVANAGHIRI"
+  },{
+    "bus_name": "5D",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "7:35 AM",
+    "route": "AYYAMPETTAI"
+  },{
+    "bus_name": "5A",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM - ANNAMALAI NAGAR",
+    "departure_time": "8:00 AM",
+    "route": "BYPASS"
+  },{
+    "bus_name": "5B (B)",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "8:25 AM",
+    "route": "SAMIYAR PETTAI"
+  },{
+    "bus_name": "SENTHIL",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "8:30 AM",
+    "route": "BYPASS"
+  },{
+    "bus_name": "VIGNESHWARA",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "8:40 AM",
+    "route": "KAATUMANNARKUDI"
+  },{
+    "bus_name": "5B",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "9:00 AM",
+    "route": "MARINE COLLEGE"
+  },{
+    "bus_name": "5C",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "9:15 AM",
+    "route": "PUTHUKUPPAM"
+  },{
+    "bus_name": "VRM INIYA",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "9:25 AM",
+    "route": "BHUVANAGHIRI"
+  },{
+    "bus_name": "5A (A)",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "9:20 AM",
+    "route": "VAATHIYA PALLI"
+  },{
+    "bus_name": "KANAGARAJ",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "9:35 AM",
+    "route": "BHUVANAGHIRI"
+  },{
+    "bus_name": "NT",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "9:30 AM",
+    "route": "BYPASS"
+  },{
+    "bus_name": "5A",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM - ANNAMALAI NAGAR",
+    "departure_time": "9:55 AM",
+    "route": "MARINE COLLEGE"
+  },{
+    "bus_name": "239 B",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "10:00 AM",
+    "route": "BYPASS"
+  },{
+    "bus_name": "5D",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "10:30 AM",
+    "route": "PUTHUKUPPAM"
+  },{
+    "bus_name": "17",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "10:40 AM",
+    "route": "BYPASS"
+  },{
+    "bus_name": "SRI KRISHNA",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "10:45 AM",
+    "route": "BHUVANAGHIRI"
+  },{
+    "bus_name": "5B",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "10:50 AM",
+    "route": "BHUVANAGHIRI"
+  },{
+    "bus_name": "239 L",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "10:50 AM",
+    "route": "BYPASS"
+  },{
+    "bus_name": "5B (B)",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "11:05 AM",
+    "route": "SAMIYAR PETTAI"
+  },{
+    "bus_name": "SUSHMITHA",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "11:15 AM",
+    "route": "SHRI MUSHNAM"
+  },{
+    "bus_name": "5A (A)",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "11:20 AM",
+    "route": "VAATHIYA PALLI"
+  },{
+    "bus_name": "JAYA KRISHNA",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "11:45 AM",
+    "route": "BHUVANAGHIRI"
+  },{
+    "bus_name": "5C",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "11:50 AM",
+    "route": "LIGH HOUSE"
+  },{
+    "bus_name": "5A",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM - ANNAMALAI NAGAR",
+    "departure_time": "10:50 AM",
+    "route": "BYPASS"
+  },{
+    "bus_name": "SUSHMITHA",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "12:25 PM",
+    "route": "BHUVANAGHIRI"
+  },{
+    "bus_name": "SENTHIL",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "12:45 PM",
+    "route": "BHUVANAGHIRI"
+  },{
+    "bus_name": "43",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "VADALUR",
+    "departure_time": "12:30 PM",
+    "route": "CHIDAMBARAM"
+  },{
+    "bus_name": "CTP",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "1:00 PM",
+    "route": "BHUVANAGHIRI"
+  },{
+    "bus_name": "5B",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "1:05 PM",
+    "route": "BHUVANAGHIRI"
+  },{
+    "bus_name": "239 B",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "1:10 PM",
+    "route": "BYPASS"
+  },{
+    "bus_name": "5D",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "1:20 PM",
+    "route": "MADAVAPALLAM"
+  },{
+    "bus_name": "5A (A)",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "1:20 PM",
+    "route": "VAATHIYA PALLI"
+  },{
+    "bus_name": "6",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "1:50 PM",
+    "route": "SAMIYAR PETTAI"
+  },{
+    "bus_name": "5A",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "1:55 PM",
+    "route": "BYPASS"
+  },{
+    "bus_name": "CTP",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "2:30 PM",
+    "route": "BHUVANAGHIRI"
+  },{
+    "bus_name": "239 A",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "2:40 PM",
+    "route": "BYPASS"
+  },{
+    "bus_name": "5B",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "2:55 PM",
+    "route": "BHUVANAGHIRI"
+  },{
+    "bus_name": "5B (B)",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "3:10 PM",
+    "route": "SAMIYAR PETTAI"
+  },{
+    "bus_name": "NT",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "3:25 PM",
+    "route": "BYPASS"
+  },{
+    "bus_name": "5C",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM - ANNAMALAI NAGAR",
+    "departure_time": "3:35 PM",
+    "route": "PUTHUKUPPAM"
+  },{
+    "bus_name": "VRM INIYA",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "3:50 PM",
+    "route": "BHUVANAGHIRI"
+  },{
+    "bus_name": "5A (A)",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "3:40 PM",
+    "route": "VAATHIYA PALLI"
+  },{
+    "bus_name": "5A",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "4:00 PM",
+    "route": "BYPASS"
+  },{
+    "bus_name": "SAI BABA",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "4:00 PM",
+    "route": "BYPASS"
+  },{
+    "bus_name": "239 B",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "4:20 PM",
+    "route": "BYPASS"
+  },{
+    "bus_name": "5D",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "4:30 PM",
+    "route": "MADAVAPALLAM"
+  },{
+    "bus_name": "17",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "4:35 PM",
+    "route": "BYPASS"
+  },{
+    "bus_name": "JAYA KRISHNA",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "5:20 PM",
+    "route": "BHUVANAGHIRI"
+  },{
+    "bus_name": "5B",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "5:00 PM",
+    "route": "MARINE COLLEGE"
+  },{
+    "bus_name": "SRI KRISHNA",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "5:30 PM",
+    "route": "BHUVANAGHIRI"
+  },{
+    "bus_name": "288 ECR",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "5:35 PM",
+    "route": "BYPASS"
+  },{
+    "bus_name": "5A (A)",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "5:40 PM",
+    "route": "VAATHIYA PALLI"
+  },{
+    "bus_name": "226 A",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "5:50 PM",
+    "route": "BYPASS"
+  },{
+    "bus_name": "5B (B)",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "6:10 PM",
+    "route": "SAMIYAR PETTAI"
+  },{
+    "bus_name": "5C",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "6:15 PM",
+    "route": "LIGHT HOUSE"
+  },{
+    "bus_name": "CTP",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "6:40 PM",
+    "route": "BHUVANAGHIRI"
+  },{
+    "bus_name": "5A",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "6:55 PM",
+    "route": "BYPASS"
+  },{
+    "bus_name": "5B",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "7:05 PM",
+    "route": "BHUVANAGHIRI"
+  },{
+    "bus_name": "5D",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "7:20 PM",
+    "route": "AYYAMPETTAI"
+  },{
+    "bus_name": "239 B",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "7:25 PM",
+    "route": "BYPASS"
+  },{
+    "bus_name": "17",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "7:25 PM",
+    "route": "BYPASS"
+  },{
+    "bus_name": "JAYA KRISHNA",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "7:45 PM",
+    "route": "BHUVANAGHIRI"
+  },{
+    "bus_name": "5A (A)",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "7:50 PM",
+    "route": "VAATHIYA PALLI"
+  },{
+    "bus_name": "5A",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "8:45 PM",
+    "route": "BYPASS"
+  },{
+    "bus_name": "5B (B)",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "8:50 PM",
+    "route": "SAMIYAR PETTAI"
+  },{
+    "bus_name": "VRM INIYA",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "9:10 PM",
+    "route": "BHUVANAGHIRI"
+  },{
+    "bus_name": "5C",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "9:20 PM",
+    "route": "PUTHUKUPPAM"
+  },{
+    "bus_name": "NT",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "9:25 PM",
+    "route": "BYPASS"
+  },{
+    "bus_name": "5B",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "9:35 PM",
+    "route": "BHUVANAGHIRI"
+  },{
+    "bus_name": "5D",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "10:30 PM",
+    "route": "MADAVAKULAM"
+  },{
+    "bus_name": "LAKSHMI NARAYANA - LNC",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "12:20 AM",
+    "route": "BYPASS"
+  }
+]
+
+
+PARANGIPETTAI TO PICHAVARAM
+
+-----------------------------------
+
+[
+  {
+    "bus_name": "239 PI",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "PICHAVARAM",
+    "departure_time": "7:20 AM",
+    "route": "KILLAI",
+    "schedule": "SATURDAY & SUNDAY"
+  },{
+    "bus_name": "501",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "PICHAVARAM",
+    "departure_time": "10:30 AM",
+    "route": "KILLAI",
+    "schedule": "DAILY"
+  },{
+    "bus_name": "239 PI",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "PICHAVARAM",
+    "departure_time": "10:35 AM",
+    "route": "KILLAI",
+    "schedule": "SATURDAY & SUNDAY"
+  },{
+    "bus_name": "239 PI",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "PICHAVARAM",
+    "departure_time": "1:55 PM",
+    "route": "KILLAI",
+    "schedule": "SATURDAY & SUNDAY"
+  },{
+    "bus_name": "239 PI",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "PICHAVARAM",
+    "departure_time": "5:15 PM",
+    "route": "KILLAI",
+    "schedule": "SATURDAY & SUNDAY"
+  },{
+    "bus_name": "239 PI",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "PICHAVARAM",
+    "departure_time": "8:45 PM",
+    "route": "KILLAI",
+    "schedule": "SATURDAY & SUNDAY"
+  }
+]
+
+
+PARANGIPETTAI TO PUTHUKUPPAM 
+PARANGIPETTAI TO SAMIYAR PETTAI 
+PARANGIPETTAI TO PUTHUKUPPAM 
+PARANGIPETTAI TO MADAVAPALLAM 
+PARANGIPETTAI TO AYYAMPETTAI
+
+-----------------------------------
+
+[
+  {
+    "bus_name": "4D",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE NR",
+    "departure_time": "4:35 AM",
+    "route": "AYYAMPETTAI"
+  },
+  {
+    "bus_name": "5D",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "AYYAMPETTAI",
+    "departure_time": "6:10 AM",
+    "route": "PUTHUPETTAI"
+  },
+  {
+    "bus_name": "JAYA KRISHAN",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "PUTHUPETTAI",
+    "departure_time": "7:05 AM",
+    "route": "SMALL BAZAR"
+  },
+  {
+    "bus_name": "5B (B)",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "SAMIYAR PETTAI",
+    "departure_time": "7:30 AM",
+    "route": "PUTHUPETTAI"
+  },
+  {
+    "bus_name": "4C",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE OT",
+    "departure_time": "8:10 AM",
+    "route": "AYYAMPETTAI"
+  },
+  {
+    "bus_name": "4D",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE NT",
+    "departure_time": "10:45 AM",
+    "route": "AYYAMPETTAI"
+  },
+  {
+    "bus_name": "JAYA KRISHAN",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "PUTHUPETTAI",
+    "departure_time": "11:00 AM",
+    "route": "SMALL BAZAR"
+  },
+  {
+    "bus_name": "501",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE NT",
+    "departure_time": "11:45 AM",
+    "route": "AYYAMPETTAI"
+  },
+  {
+    "bus_name": "5D",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "MADAVAPALLAM",
+    "departure_time": "12:20 PM",
+    "route": "SAMIYAR PETTAI"
+  },
+  {
+    "bus_name": "6",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "SAMIYAR PETTAI",
+    "departure_time": "1:00 PM",
+    "route": "PUTHUPETTAI"
+  },
+  {
+    "bus_name": "4C",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE OT",
+    "departure_time": "1:00 PM",
+    "route": "AYYAMPETTAI"
+  },
+  {
+    "bus_name": "JAYA KRISHAN",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE OT",
+    "departure_time": "1:35 PM",
+    "route": "AYYAMPETTAI"
+  },
+  {
+    "bus_name": "4D",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE NT",
+    "departure_time": "2:15 PM",
+    "route": "AYYAMPETTAI"
+  },
+  {
+    "bus_name": "5B (B)",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "SAMIYAR PETTAI",
+    "departure_time": "2:20 PM",
+    "route": "PUTHUPETTAI"
+  },
+  {
+    "bus_name": "5C",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "PUTHUKUPPAM",
+    "departure_time": "2:35 PM",
+    "route": "SAMIYAR PETTAI"
+  },
+  {
+    "bus_name": "5D",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "MADAVAPALLAM",
+    "departure_time": "3:15 PM",
+    "route": "SAMIYAR PETTAI"
+  },
+  {
+    "bus_name": "4C",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE OT",
+    "departure_time": "3:20 PM",
+    "route": "AYYAMPETTAI"
+  },
+  {
+    "bus_name": "JAYA KRISHAN",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "PUTHUPETTAI",
+    "departure_time": "4:45 PM",
+    "route": "SMALL BAZAR"
+  },
+  {
+    "bus_name": "4B",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE OT",
+    "departure_time": "5:10 PM",
+    "route": "AYYAMPETTAI"
+  },
+  {
+    "bus_name": "5B (B)",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "SAMIYAR PETTAI",
+    "departure_time": "5:15 PM",
+    "route": "PUTHUPETTAI"
+  },
+  {
+    "bus_name": "4D",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE NT",
+    "departure_time": "5:50 PM",
+    "route": "AYYAMPETTAI"
+  },
+    {
+      "bus_name": "4C",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "CUDDALORE OT",
+      "departure_time": "6:10 PM",
+      "route": "AYYAMPETTAI"
+    },
+    {
+      "bus_name": "5D",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "AYYAMPETTAI",
+      "departure_time": "6:30 PM",
+      "route": "SAMIYAR PETTAI"
+    },
+    {
+      "bus_name": "JAYA KRISHAN",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "PUTHUPETTAI",
+      "departure_time": "7:05 PM",
+      "route": "SMALL BAZAR"
+    },
+    {
+      "bus_name": "5B (B)",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "SAMIYAR PETTAI",
+      "departure_time": "8:00 PM",
+      "route": "PUTHUPETTAI"
+    },
+    {
+      "bus_name": "5C",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "PUTHUKUPPAM",
+      "departure_time": "8:30 PM",
+      "route": "SAMIYAR PETTAI"
+    },
+    {
+      "bus_name": "4C",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "CUDDALORE NT",
+      "departure_time": "8:35 PM",
+      "route": "AYYAMPETTAI"
+    },
+    {
+      "bus_name": "JAYA KRISHAN",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "PUTHUPETTAI",
+      "departure_time": "9:20 PM",
+      "route": "SMALL BAZAR"
+    },
+    {
+      "bus_name": "5D",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "MADAVAPALLAM",
+      "departure_time": "9:30 PM",
+      "route": "SAMIYAR PETTAI"
+    },
+    {
+      "bus_name": "5B (B)",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "SAMIYAR PETTAI",
+      "departure_time": "10:45 PM",
+      "route": "PUTHUPETTAI"
+    },
+    {
+      "bus_name": "6",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "SAMIYAR PETTAI",
+      "departure_time": "11:15 PM",
+      "route": "PUTHUPETTAI"
+    }
+]

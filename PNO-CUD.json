@@ -1,0 +1,801 @@
+PARANGIPETTAI TO CUDDALORE
+
+-----------------------------------
+
+[
+  {
+    "bus_name": "4D",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE NT",
+    "departure_time": "4:30 AM",
+    "route": "MUDASAL ODAI"
+  },
+  {
+    "bus_name": "288 ECR",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CHENNAI",
+    "departure_time": "5:10 AM",
+    "route": "CUDDALORE NT"
+  },
+  {
+    "bus_name": "5B",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE NT",
+    "departure_time": "5:20 AM",
+    "route": "CUDDALORE NT"
+  },
+  {
+    "bus_name": "4B",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE OT",
+    "departure_time": "5:10 AM",
+    "route": "VAATHIYA PALLI"
+  },
+  {
+    "bus_name": "CTP",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE NT",
+    "departure_time": "6:00 AM",
+    "route": "PUTHUCHATIRAM"
+  },
+  {
+    "bus_name": "LAKSHMI NARAYANA - LNC",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE NT",
+    "departure_time": "6:20 AM",
+    "route": "PONDICHERRY"
+  },
+  {
+    "bus_name": "4A",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE NT",
+    "departure_time": "7:00 AM",
+    "route": "VAATHIYA PALLI"
+  },
+  {
+    "bus_name": "239 B",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE NT",
+    "departure_time": "7:40 AM",
+    "route": "PUTHUCHATIRAM"
+  },
+  {
+    "bus_name": "4B",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE OT",
+    "departure_time": "7:40 AM",
+    "route": "VAATHIYA PALLI"
+  },
+  {
+    "bus_name": "SRI KRISHNA",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE NT",
+    "departure_time": "7:55 AM",
+    "route": "PUTHUCHATIRAM"
+  },
+  {
+    "bus_name": "VIGNESHWARA",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE NT",
+    "departure_time": "8:15 AM",
+    "route": "METHUPALAYAM"
+  },
+  {
+    "bus_name": "4C",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE OT",
+    "departure_time": "8:15 AM",
+    "route": "SALANGAI AMMAN"
+  },
+  {
+    "bus_name": "239 PI",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE NT",
+    "departure_time": "8:30 AM",
+    "route": "PUTHUCHATIRAM"
+  },
+  {
+    "bus_name": "239 L",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE NT",
+    "departure_time": "8:45 AM",
+    "route": "PUTHUCHATIRAM"
+  },
+  {
+    "bus_name": "CTP",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE NT",
+    "departure_time": "9:30 AM",
+    "route": "PUTHUCHATIRAM"
+  },
+  {
+    "bus_name": "SUSHMITHA",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE NT",
+    "departure_time": "9:45 AM",
+    "route": "PUTHUCHATIRAM"
+  },
+  {
+    "bus_name": "4B",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE OT",
+    "departure_time": "9:50 AM",
+    "route": "PUTHUCHATIRAM"
+  },
+  {
+    "bus_name": "4A",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE NT",
+    "departure_time": "10:00 AM",
+    "route": "VAATHIYA PALLI"
+  },
+  {
+    "bus_name": "SENTHIL",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE NT",
+    "departure_time": "10:20 AM",
+    "route": "PUTHUCHATIRAM"
+  },
+  {
+    "bus_name": "4C",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "CUDDALORE OT",
+    "departure_time": "10:40 AM",
+    "route": "SALANGAI AMMAN"
+  },
+    {
+      "bus_name": "4D",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "CUDDALORE NT",
+      "departure_time": "10:45 AM",
+      "route": "MUDASAL ODAI"
+    },
+    {
+      "bus_name": "5A",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "CUDDALORE NT",
+      "departure_time": "11:00 AM",
+      "route": "VAATHIYA PALLI"
+    },
+    {
+      "bus_name": "239 B",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "CUDDALORE NT",
+      "departure_time": "11:15 AM",
+      "route": "PUTHUCHATIRAM"
+    },
+    {
+      "bus_name": "NT",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "CUDDALORE NT",
+      "departure_time": "11:30 AM",
+      "route": "PONDICHERY"
+    },
+    {
+      "bus_name": "239 PI",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "CUDDALORE NT",
+      "departure_time": "11:35 AM",
+      "route": "PUTHUCHATIRAM"
+    },
+    {
+      "bus_name": "501",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "CUDDALORE NT",
+      "departure_time": "11:45 AM",
+      "route": "SALANGAI AMMAN"
+    },
+    {
+      "bus_name": "SAI BABA",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "CUDDALORE NT",
+      "departure_time": "12:00 PM",
+      "route": "PONDICHERY"
+    },
+    {
+      "bus_name": "4B",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "CUDDALORE OT",
+      "departure_time": "12:20 PM",
+      "route": "VAATHIYA PALLI"
+    },
+    {
+      "bus_name": "239 A",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "CUDDALORE NT",
+      "departure_time": "12:50 PM",
+      "route": "PUTHUCHATIRAM"
+    },
+    {
+      "bus_name": "4C",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "CUDDALORE OT",
+      "departure_time": "1:10 PM",
+      "route": "SALANGAI AMMAN"
+    },
+    {
+      "bus_name": "DURGA",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "CUDDALORE NT",
+      "departure_time": "1:35 PM",
+      "route": "PANRUTI"
+    },
+    {
+      "bus_name": "4A",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "CUDDALORE NT",
+      "departure_time": "1:40 PM",
+      "route": "VAATHIYA PALLI"
+    },
+    {
+      "bus_name": "4D",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "CUDDALORE NT",
+      "departure_time": "2:15 PM",
+      "route": "MUDASAL ODAI"
+    },
+    {
+      "bus_name": "239 B",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "CUDDALORE NT",
+      "departure_time": "2:25 PM",
+      "route": "PUTHUCHATIRAM"
+    },
+    {
+      "bus_name": "4B",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "CUDDALORE OT",
+      "departure_time": "3:00 PM",
+      "route": "VAATHIYA PALLI"
+    },
+    {
+      "bus_name": "239 PI",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "CUDDALORE NT",
+      "departure_time": "3:05 PM",
+      "route": "PUTHUCHATIRAM"
+    },
+    {
+      "bus_name": "SRI KRISHNA",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "CUDDALORE NT",
+      "departure_time": "3:10 PM",
+      "route": "PUTHUCHATIRAM"
+    },
+    {
+      "bus_name": "4C",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "CUDDALORE OT",
+      "departure_time": "3:40 PM",
+      "route": "SALANGAI AMMAN"
+    },
+    {
+      "bus_name": "CTP",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "CUDDALORE NT",
+      "departure_time": "4:00 PM",
+      "route": "PUTHUCHATIRAM"
+    },
+    {
+      "bus_name": "SENTHIL",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "CUDDALORE NT",
+      "departure_time": "4:20 PM",
+      "route": "TINDIVANAM"
+    },
+    {
+      "bus_name": "4A",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "PUTHUCHATIRAM",
+      "departure_time": "4:30 PM",
+      "route": "PUTHUCHATIRAM"
+    },
+    {
+      "bus_name": "NT",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "CUDDALORE NT",
+      "departure_time": "4:50 PM",
+      "route": "PONDICHERRY"
+    },
+    {
+      "bus_name": "4B",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "CUDDALORE OT",
+      "departure_time": "5:10 PM",
+      "route": "VAATHIYA PALLI"
+    },
+    {
+      "bus_name": "4A",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "CUDDALORE NT",
+      "departure_time": "5:20 PM",
+      "route": "SALANGAI AMMAN"
+    },
+    {
+      "bus_name": "239 B",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "CUDDALORE NT",
+      "departure_time": "5:30 PM",
+      "route": "PUTHUCHATIRAM"
+    },
+    {
+      "bus_name": "4D",
+      "from_city": "PARANGIPETTAI",
+      "to_city": "CUDDALORE NT",
+      "departure_time": "5:50 PM",
+      "route": "MUDASAL ODAI"
+    },
+      {
+        "bus_name": "SUSHMITHA",
+        "from_city": "PARANGIPETTAI",
+        "to_city": "CUDDALORE NT",
+        "departure_time": "5:55 PM",
+        "route": "PUTHUCHATIRAM"
+      },
+      {
+        "bus_name": "SAI BABA",
+        "from_city": "PARANGIPETTAI",
+        "to_city": "CUDDALORE NT",
+        "departure_time": "6:00 PM",
+        "route": "PONDICHERRY"
+      },
+      {
+        "bus_name": "4C",
+        "from_city": "PARANGIPETTAI",
+        "to_city": "CUDDALORE OT",
+        "departure_time": "6:20 PM",
+        "route": "SALANGAI AMMAN"
+      },
+      {
+        "bus_name": "239 PI",
+        "from_city": "PARANGIPETTAI",
+        "to_city": "CUDDALORE NT",
+        "departure_time": "6:25 PM",
+        "route": "PUTHUCHATIRAM"
+      },
+      {
+        "bus_name": "4B",
+        "from_city": "PARANGIPETTAI",
+        "to_city": "CUDDALORE NT",
+        "departure_time": "7:20 PM",
+        "route": "VAATHIYA PALLI"
+      },
+      {
+        "bus_name": "226 A",
+        "from_city": "PARANGIPETTAI",
+        "to_city": "CUDDALORE NT",
+        "departure_time": "7:25 PM",
+        "route": "PUTHUCHATIRAM"
+      },
+      {
+        "bus_name": "4A",
+        "from_city": "PARANGIPETTAI",
+        "to_city": "CUDDALORE OT",
+        "departure_time": "7:55 PM",
+        "route": "VAATHIYA PALLI"
+      },
+      {
+        "bus_name": "DURGA",
+        "from_city": "PARANGIPETTAI",
+        "to_city": "CUDDALORE NT",
+        "departure_time": "8:00 PM",
+        "route": "PUTHUCHATIRAM"
+      },
+      {
+        "bus_name": "CTP",
+        "from_city": "PARANGIPETTAI",
+        "to_city": "CUDDALORE NT",
+        "departure_time": "8:30 PM",
+        "route": "PUTHUCHATIRAM"
+      },
+      {
+        "bus_name": "4C",
+        "from_city": "PARANGIPETTAI",
+        "to_city": "CUDDALORE NT",
+        "departure_time": "8:45 PM",
+        "route": "SALANGAI AMMAN"
+      },
+      {
+        "bus_name": "239 B",
+        "from_city": "PARANGIPETTAI",
+        "to_city": "CUDDALORE NT",
+        "departure_time": "8:50 PM",
+        "route": "PUTHUCHATIRAM"
+      },
+      {
+        "bus_name": "501",
+        "from_city": "PARANGIPETTAI",
+        "to_city": "CUDDALORE NT",
+        "departure_time": "9:00 PM",
+        "route": "PUTHUCHATIRAM"
+      },
+      {
+        "bus_name": "239 PI",
+        "from_city": "PARANGIPETTAI",
+        "to_city": "CUDDALORE NT",
+        "departure_time": "9:15 PM",
+        "route": "PUTHUCHATIRAM"
+      },
+      {
+        "bus_name": "4A",
+        "from_city": "PARANGIPETTAI",
+        "to_city": "CUDDALORE NT",
+        "departure_time": "10:00 PM",
+        "route": "VAATHIYA PALLI"
+      },
+      {
+        "bus_name": "DURGA",
+        "from_city": "PARANGIPETTAI",
+        "to_city": "CUDDALORE NT",
+        "departure_time": "10:00 PM",
+        "route": "PUTHUCHATIRAM"
+      },
+      {
+        "bus_name": "KANAGARAJ",
+        "from_city": "PARANGIPETTAI",
+        "to_city": "CUDDALORE NT",
+        "departure_time": "10:10 PM",
+        "route": "PONDICHERRY"
+      },
+      {
+        "bus_name": "NT",
+        "from_city": "PARANGIPETTAI",
+        "to_city": "CUDDALORE NT",
+        "departure_time": "1:10 AM",
+        "route": "PONDICHERRY"
+      }
+    ]
+    
+
+
+MUDASAL ODAI TO CHIDAMBARAM
+-----------------------------------
+
+[
+  {
+    "bus_name": "3",
+    "from_city": "MUDASAL ODAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "5:10 AM",
+    "route": "KILLAI & MANDABAM"
+  },
+  {
+    "bus_name": "35",
+    "from_city": "MUDASAL ODAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "5:45 AM",
+    "route": "KILLAI & MANDABAM"
+  },
+  {
+    "bus_name": "3",
+    "from_city": "MUDASAL ODAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "6:50 AM",
+    "route": "KILLAI & MANDABAM"
+  },
+  {
+    "bus_name": "35",
+    "from_city": "MUDASAL ODAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "7:30 AM",
+    "route": "KILLAI & MANDABAM"
+  },
+  {
+    "bus_name": "3",
+    "from_city": "MUDASAL ODAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "8:45 AM",
+    "route": "KILLAI & MANDABAM"
+  },
+  {
+    "bus_name": "3A",
+    "from_city": "MUDASAL ODAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "9:55 AM",
+    "route": "KILLAI & MANDABAM"
+  },
+  {
+    "bus_name": "35",
+    "from_city": "MUDASAL ODAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "10:15 AM",
+    "route": "KILLAI & MANDABAM"
+  },
+  {
+    "bus_name": "3",
+    "from_city": "MUDASAL ODAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "10:45 AM",
+    "route": "KILLAI & MANDABAM"
+  },
+  {
+    "bus_name": "3A",
+    "from_city": "MUDASAL ODAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "11:50 AM",
+    "route": "KILLAI & MANDABAM"
+  },
+  {
+    "bus_name": "35",
+    "from_city": "MUDASAL ODAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "12:15 PM",
+    "route": "KILLAI & MANDABAM"
+  },
+  {
+    "bus_name": "3",
+    "from_city": "MUDASAL ODAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "12:45 PM",
+    "route": "KILLAI & MANDABAM"
+  },
+  {
+    "bus_name": "3A",
+    "from_city": "MUDASAL ODAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "1:50 PM",
+    "route": "KILLAI & MANDABAM"
+  },
+  {
+    "bus_name": "35",
+    "from_city": "MUDASAL ODAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "2:15 PM",
+    "route": "KILLAI & MANDABAM"
+  },
+  {
+    "bus_name": "3",
+    "from_city": "MUDASAL ODAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "2:55 PM",
+    "route": "KILLAI & MANDABAM"
+  },
+  {
+    "bus_name": "3A",
+    "from_city": "MUDASAL ODAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "3:55 PM",
+    "route": "KILLAI & MANDABAM"
+  },
+  {
+    "bus_name": "3",
+    "from_city": "MUDASAL ODAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "4:50 PM",
+    "route": "KILLAI & MANDABAM"
+  },
+  {
+    "bus_name": "3A",
+    "from_city": "MUDASAL ODAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "5:55 PM",
+    "route": "KILLAI & MANDABAM"
+  },
+  {
+    "bus_name": "35",
+    "from_city": "MUDASAL ODAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "6:15 PM",
+    "route": "KILLAI & MANDABAM"
+  },
+  {
+    "bus_name": "3",
+    "from_city": "MUDASAL ODAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "7:00 PM",
+    "route": "KILLAI & MANDABAM"
+  },
+  {
+    "bus_name": "35",
+    "from_city": "MUDASAL ODAI",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "8:40 PM",
+    "route": "KILLAI & MANDABAM"
+  }
+]
+
+PONNANTHITTU --> CHIDAMBARAM
+
+[
+  {
+    "bus_name": "3A",
+    "from_city": "PONNANTHITTU",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "7:50 AM",
+    "route": "KILLAI & MANDABAM"
+  },
+  {
+    "bus_name": "SARAVANA",
+    "from_city": "PONNANTHITTU",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "8:10 AM",
+    "route": "KILLAI -> KODIPALLAM -> OP"
+  },
+  {
+    "bus_name": "SARAVANA",
+    "from_city": "PONNANTHITTU",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "10:10 AM",
+    "route": "KILLAI -> KODIPALLAM -> OP"
+  },
+  {
+    "bus_name": "SARAVANA",
+    "from_city": "PONNANTHITTU",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "6:00 PM",
+    "route": "KILLAI -> KODIPALLAM -> OP"
+  },
+  {
+    "bus_name": "3A",
+    "from_city": "PONNANTHITTU",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "7:55 PM",
+    "route": "KILLAI & MANDABAM"
+  },
+  {
+    "bus_name": "3A",
+    "from_city": "PONNANTHITTU",
+    "to_city": "CHIDAMBARAM",
+    "departure_time": "9:55 PM",
+    "route": "KILLAI & MANDABAM"
+  }
+]
+
+
+PARANGIPETTAI --> KURINCHIPADI
+PARANGIPETTAI --> NEYVELI 
+PARANGIPETTAI --> VIRUDACHALAM
+
+[
+  {
+    "bus_name": "JAI KRISHNA",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "KURINCHIPADI",
+    "departure_time": "4:40 AM",
+    "route": "KURINCHIPADI"
+  },
+  {
+    "bus_name": "VASANTHA RAJA",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "KURINCHIPADI",
+    "departure_time": "4:55 AM",
+    "route": "KURINCHIPADI"
+  },
+  {
+    "bus_name": "VASANTHA RAJA",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "KURINCHIPADI",
+    "departure_time": "7:45 AM",
+    "route": "KURINCHIPADI"
+  },
+  {
+    "bus_name": "JAI KRISHNA",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "KURINCHIPADI",
+    "departure_time": "8:25 AM",
+    "route": "KURINCHIPADI"
+  },
+  {
+    "bus_name": "VASANTHA RAJA",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "KURINCHIPADI",
+    "departure_time": "10:15 AM",
+    "route": "KURINCHIPADI"
+  },
+  {
+    "bus_name": "VRM INIYA",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "VIRUDACHALAM",
+    "departure_time": "10:15 AM",
+    "route": "KURINCHIPADI"
+  },
+  {
+    "bus_name": "VASANTHA RAJA",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "NEYVELI",
+    "departure_time": "1:20 PM",
+    "route": "KURINCHIPADI"
+  },
+  {
+    "bus_name": "JAI KRISHNA",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "KURINCHIPADI",
+    "departure_time": "2:10 PM",
+    "route": "KURINCHIPADI"
+  },
+  {
+    "bus_name": "VRM INIYA",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "NEYVELI",
+    "departure_time": "5:40 PM",
+    "route": "KURINCHIPADI"
+  },
+  {
+    "bus_name": "VASANTHA RAJA",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "NEYVELI",
+    "departure_time": "6:00 PM",
+    "route": "KURINCHIPADI"
+  },
+  {
+    "bus_name": "VRM INIYA",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "KURINCHIPADI",
+    "departure_time": "10:50 PM",
+    "route": "KURINCHIPADI"
+  }
+]
+
+
+
+TRAIN ROUTES
+--------------
+--------------
+
+CHIDAMBARAM ROUTE
+
+[
+  {
+    "train_no": "06689",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "MAYILADUTHURAI",
+    "departure_time": "7:30 PM",
+    "route": "CHIDAMBARAM"
+  },
+  {
+    "train_no": "06691",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "THIRUVARUR",
+    "departure_time": "4:05 PM",
+    "route": "CHIDAMBARAM"
+  },
+  {
+    "train_no": "16529",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "KARAIKAL",
+    "departure_time": "6:10 PM",
+    "route": "CHIDAMBARAM"
+  },
+  {
+    "train_no": "06877",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "THIRUVARUR",
+    "departure_time": "8:00 PM",
+    "route": "CHIDAMBARAM"
+  }
+]
+
+
+CUDDALORE ROUTE
+----------------
+
+[
+  {
+    "train_no": "06690",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "VILUPPURAM",
+    "departure_time": "7:00 AM",
+    "route": "CUDDALORE"
+  },
+  {
+    "train_no": "16530",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "BENGALURU",
+    "departure_time": "8:10 AM",
+    "route": "CUDDALORE"
+  },
+  {
+    "train_no": "06692",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "KATPADI",
+    "departure_time": "4:40 PM",
+    "route": "CUDDALORE"
+  },
+  {
+    "train_no": "06694",
+    "from_city": "PARANGIPETTAI",
+    "to_city": "VILUPPURAM",
+    "departure_time": "6:55 PM",
+    "route": "CUDDALORE"
+  }
+]
